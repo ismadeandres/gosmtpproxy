@@ -1,7 +1,0 @@
-EHLO ej240116.ejgvdns
-MAIL FROM: isma@pormiswebs.com
-RCPT TO: isma@pormiswebs.com
-DATA
-hola que ase?
-.
-QUIT
